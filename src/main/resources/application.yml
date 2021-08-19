@@ -1,0 +1,5 @@
+demo:
+  monitor:
+    server-url: https://www.demo-monitor.com
+    username: zhangyi
+    password: 123456
